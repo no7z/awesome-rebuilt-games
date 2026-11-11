@@ -28,6 +28,7 @@ Local images used by the homepage are listed below with their original pages. Ca
 | [goldenballoon-entry.jpg](goldenballoon-entry.jpg) | [原页面 / Original page](https://akratch.github.io/golden-balloon/) | 当前ROM导入页 / Current ROM import page |
 | [isle-launcher.jpg](isle-launcher.jpg) | [原页面 / Original page](https://isle.pizza/) | 网页启动器 / Web launcher |
 | [marbleblast-gold-entry.jpg](marbleblast-gold-entry.jpg) | [原页面 / Original page](https://marbleblastgold.randomityguy.me) | Gold主菜单 / Gold main menu |
+| [mc3-web.jpg](mc3-web.jpg) | [原页面 / Original page](https://x.com/McGroin83/status/2119957078127108304) | The Gaming Emporium 原帖中的游戏配图 / Game image shared in The Gaming Emporium post |
 | [micropolisjs-entry.jpg](micropolisjs-entry.jpg) | [原页面 / Original page](https://www.graememcc.co.uk/micropolisJS) | 欢迎页与地图预览 / Welcome screen and map preview |
 | [newshoes-entry.jpg](newshoes-entry.jpg) | [原页面 / Original page](https://newshoes.gg) | 当前游戏文件导入启动器 / Current game-data import launcher |
 | [openra-official-preview.jpg](openra-official-preview.jpg) | [原页面 / Original page](https://www.openra.net/) | 官网游戏预览 / Official-site game preview |
@@ -40,7 +41,9 @@ Local images used by the homepage are listed below with their original pages. Ca
 | [silent-hill-upstream.png](silent-hill-upstream.png) | [原页面 / Original page](https://sh1pc.com/) | 作者官网提供的移植截图 / Port screenshot from the author’s website |
 | [snail-mail-entry.jpg](snail-mail-entry.jpg) | [原页面 / Original page](https://snail.banteg.xyz) | 点击启动画面 / Click-to-play screen |
 | [soulcalibur2-recomp.jpg](soulcalibur2-recomp.jpg) | [原页面 / Original page](https://github.com/tmcleroy/soulcalibur2-recomp/blob/main/README.md) | 上游提供的平八对 Spawn 游戏画面 / Upstream gameplay screenshot of Heihachi versus Spawn |
+| [timesplitters2-native.jpg](timesplitters2-native.jpg) | [原页面 / Original page](https://github.com/Destinity13/TimeSplitters-2-Native-Linux-Recomp/blob/main/README.md) | 上游提供的西伯利亚关卡游戏画面 / Upstream screenshot of the Siberia level |
 | [tmb-bozos.jpg](tmb-bozos.jpg) | [原页面 / Original page](https://github.com/TheBozos/TMB_Recomp/blob/main/README.md) | 上游移植版垃圾场战斗画面 / Junkyard match screenshot from the upstream port |
+| [tmnt-port.png](tmnt-port.png) | [原页面 / Original page](https://github.com/cheviman/tmnt-port/blob/main/README.md) | 上游提供的四人街头游戏画面 / Upstream screenshot of four turtles in the street |
 | [ultima6-setup.jpg](ultima6-setup.jpg) | [原页面 / Original page](https://ultima6.2lab.ai/) | 设置入口 / Setup screen |
 | [ultratears.png](ultratears.png) | [原页面 / Original page](https://github.com/kuraeow/ultratears/blob/main/README.md) | 上游 README 的 UltraTears 标题图 / UltraTears title artwork from the upstream README |
 | [untangle-entry.jpg](untangle-entry.jpg) | [原页面 / Original page](https://az9713.github.io/untangle-rebuild/rebuild/index.html) | 棋盘画面 / Puzzle board |
