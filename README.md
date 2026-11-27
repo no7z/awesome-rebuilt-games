@@ -6,7 +6,7 @@ Discover decompiled, recompiled, reimplemented and ported games. See images, sup
 
 [Game data sources](RESOURCES.en.md) · [Contribute](CONTRIBUTING.md)
 
-189 showcase projects · 89 browser links.
+190 showcase projects · 89 browser links.
 
 Ready-to-run projects and source builds are listed separately. Build entries state the platforms, instructions and original files required; compiling may still require a ROM or game data.
 
@@ -99,6 +99,7 @@ Today's additions are listed first; the remaining games follow the detail sectio
 | [Daggerfall Unity](#game-daggerfall-unity) | Download | Role-playing |
 | [Cube 2: Sauerbraten · Sour](#game-sour) | Download | Shooters &amp; bullet hell |
 | [Crystal Caves · OpenCrystalCaves Episode 1](#game-open-crystal-caves) | Download | Platformers |
+| [Race Driver: GRID (2008) · DRIG](#game-drig) | Download | Racing &amp; driving |
 | [RollerCoaster Tycoon 2 · OpenRCT2](#game-openrct2-openrct2) | Source build | Simulation, management &amp; building |
 | [Diablo and Hellfire · DevilutionX](#game-diasurgical-devilutionx) | Source build | Role-playing |
 | [VVVVVV · Source release](#game-vvvvvv) | Source build | Platformers |
@@ -3522,6 +3523,24 @@ Today's additions are listed first; the remaining games follow the detail sectio
      **Required files:** Your own Japanese Dicing Knight. .wsc cartridge image; the resulting build contains game-derived code and is for personal use.
 
      [**Build instructions**](https://github.com/aoxzh/dicing-knight-static-recomp/blob/main/README.md) · [Project source](https://github.com/aoxzh/dicing-knight-static-recomp)
+
+     [↑ Back to directory](#game-index)
+
+190. <a name="game-drig"></a>**Race Driver: GRID (2008) · DRIG**
+
+     <a href="https://github.com/PipeKnight/drig-race-driver"><img src="https://github.com/user-attachments/assets/f46aebc0-85d4-422a-9b75-f2b3b9c99744" width="760" alt="Gameplay capture from the DRIG project"></a>
+
+     <sub>Gameplay capture from DRIG <a href="https://github.com/PipeKnight/drig-race-driver">Image source</a></sub>
+
+     An early Rust and Bevy engine reimplementation. Individual races can be played through to the finish; career and fidelity work are ongoing.
+
+     **Platforms:** Windows, Linux, and Apple Silicon macOS.
+
+     **Run:** Download the build for your platform and launch it. If it cannot find the original installation, set the game folder as documented in the project README.
+
+     **Required files:** Your own PC copy of Race Driver: GRID (2008).
+
+     [**Download**](https://github.com/PipeKnight/drig-race-driver/releases/latest) · [Project source](https://github.com/PipeKnight/drig-race-driver)
 
      [↑ Back to directory](#game-index)
 

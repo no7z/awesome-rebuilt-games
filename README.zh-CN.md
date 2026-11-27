@@ -6,7 +6,7 @@
 
 [游戏资源获取](RESOURCES.md) · [贡献项目](CONTRIBUTING.md)
 
-189 个展示项目 · 89 个浏览器入口。
+190 个展示项目 · 89 个浏览器入口。
 
 可直接体验的项目与需要自行构建的项目分别展示。构建条目写明平台、构建入口和原版文件要求；自行构建仍可能需要ROM或游戏数据。
 
@@ -99,6 +99,7 @@
 | [上古卷轴II：匕首雨 · Daggerfall Unity](#game-daggerfall-unity) | 下载安装 | 角色扮演 |
 | [Cube 2：Sauerbraten · Sour](#game-sour) | 下载安装 | 射击与弹幕 |
 | [水晶洞穴 · OpenCrystalCaves 第一章](#game-open-crystal-caves) | 下载安装 | 平台跳跃 |
+| [Race Driver: GRID（2008）· DRIG](#game-drig) | 下载 | 竞速与驾驶 |
 | [过山车大亨2 · OpenRCT2](#game-openrct2-openrct2) | 自行构建 | 模拟、经营与建造 |
 | [暗黑破坏神与地狱火 · DevilutionX](#game-diasurgical-devilutionx) | 自行构建 | 角色扮演 |
 | [VVVVVV · 公开源码版](#game-vvvvvv) | 自行构建 | 平台跳跃 |
@@ -3522,6 +3523,24 @@
      **所需文件：** 自己的日本版Dicing Knight. .wsc卡带镜像；构建结果含由原作生成的代码，仅供自用。
 
      [**构建说明**](https://github.com/aoxzh/dicing-knight-static-recomp/blob/main/README.md) · [项目源码](https://github.com/aoxzh/dicing-knight-static-recomp)
+
+     [↑ 返回目录](#game-index)
+
+190. <a name="game-drig"></a>**Race Driver: GRID（2008）· DRIG**
+
+     <a href="https://github.com/PipeKnight/drig-race-driver"><img src="https://github.com/user-attachments/assets/f46aebc0-85d4-422a-9b75-f2b3b9c99744" width="760" alt="DRIG 项目截图"></a>
+
+     <sub>DRIG 项目截图 <a href="https://github.com/PipeKnight/drig-race-driver">图片来源</a></sub>
+
+     使用 Rust 和 Bevy 重实现原版引擎。单场比赛可以完成，生涯模式和还原度仍在开发中。
+
+     **平台：** Windows、Linux、macOS（Apple Silicon）
+
+     **运行：** 下载对应平台的发行版并启动。若未自动找到原版数据，请根据项目说明指定游戏目录。
+
+     **所需文件：** 自备《Race Driver: GRID》（2008）PC 版游戏文件。
+
+     [**下载**](https://github.com/PipeKnight/drig-race-driver/releases/latest) · [项目源码](https://github.com/PipeKnight/drig-race-driver)
 
      [↑ 返回目录](#game-index)
 
